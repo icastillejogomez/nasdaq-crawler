@@ -1,0 +1,15 @@
+{
+  "name": "nasdaq-crawler",
+  "version": "1.0.0",
+  "description": "Nasdaq crawler",
+  "main": "index.js",
+  "scripts": {
+    "start": "time node --experimental-json-modules  index.mjs"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.2.0",
+    "axios": "^0.21.1"
+  }
+}
